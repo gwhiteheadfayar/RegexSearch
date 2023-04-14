@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Regex Search",
+  "description": "Base Level Extension",
+  "version": "1.0",
+  "action": {
+    "default_popup": "regexsearch.html",
+    "default_icon": "r_letter.png"
+  }
+}
